@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
+ "dependencies": {
   "next": "^14.0.0",
   "react": "^18.0.0",
   "react-dom": "^18.0.0",
@@ -24,7 +24,10 @@
   "date-fns": "^2.30.0",
   "react-intersection-observer": "^9.16.0",
   "next-themes": "^0.2.0",
-  "zustand": "^4.4.7"
+  "zustand": "^4.4.7",
+  "jsonwebtoken": "^9.0.2",
+  "bcryptjs": "^2.4.3",
+  "@prisma/client": "^5.14.0"
 },
   "devDependencies": {
     "typescript": "^5.0.0"
