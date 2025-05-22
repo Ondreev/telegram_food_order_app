@@ -57,7 +57,7 @@
   "react-day-picker": "^9.1.8",
   "embla-carousel-react": "^8.1.0",
    "@radix-ui/react-checkbox": "^1.0.5",
-   "cmdk": "^0.5.1"
+   "cmdk": "^0.4.2"
 },
 "devDependencies": {
   "typescript": "^5.0.0",
