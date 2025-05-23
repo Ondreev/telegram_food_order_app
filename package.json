@@ -61,7 +61,8 @@
    "react-resizable-panels": "^1.0.4",
    "sonner": "^1.4.0",
    "@radix-ui/react-toggle-group": "^1.0.7",
-   "tailwind-merge": "^2.2.1"
+   "tailwind-merge": "^2.2.1",
+   "prisma": "^5.14.0"
 },
 "devDependencies": {
   "typescript": "^5.0.0",
