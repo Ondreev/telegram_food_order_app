@@ -60,7 +60,8 @@
    "input-otp": "^1.4.0",
    "react-resizable-panels": "^1.0.4",
    "sonner": "^1.4.0",
-   "@radix-ui/react-toggle-group": "^1.0.7"
+   "@radix-ui/react-toggle-group": "^1.0.7",
+   "tailwind-merge": "^2.2.1"
 },
 "devDependencies": {
   "typescript": "^5.0.0",
