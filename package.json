@@ -58,7 +58,8 @@
   "embla-carousel-react": "^8.1.0",
    "@radix-ui/react-checkbox": "^1.0.5",
    "input-otp": "^1.4.0",
-   "react-resizable-panels": "^1.0.4"
+   "react-resizable-panels": "^1.0.4",
+   "sonner": "^1.4.0"
 },
 "devDependencies": {
   "typescript": "^5.0.0",
